@@ -1,5 +1,5 @@
 # Etapa 1: Compilación
-FROM node:20.14.0 AS dev-deps
+FROM node:20-alpine AS dev-deps
 
 WORKDIR /app
 
