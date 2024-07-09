@@ -1,0 +1,19 @@
+.card {
+    width: 300px;
+    margin-bottom: 30px;
+}
+
+img {
+    height: 400px;
+    object-fit: fill;
+}
+
+.container {
+    margin-top: 70px;
+}
+
+.toShoppingCart {
+    text-align: end;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,65 @@
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav mx-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/mangas">Mangas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Juegos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Novelas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Animes</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Figuras</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Opciones de Usuario
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <li><a class="dropdown-item" href="/registro">Registro</a></li>
+                        <li><a class="dropdown-item" href="/login">Log In</a></li>
+                        <li><a class="dropdown-item" href="/carro-de-compras">Carro</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!-- Navbar -->
+
+<router-outlet />
+
+<div class="container">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+        <p class="col-md-4 mb-0 text-body-secondary">&copy; 2024 Company, Inc</p>
+
+        <a href="/"
+            class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+            <svg class="bi me-2" width="40" height="32">
+                <use xlink:href="#bootstrap" />
+            </svg>
+        </a>
+
+        <ul class="nav col-md-4 justify-content-end">
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Contacto</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Sugerencias</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Preguntas Frecuentes</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Sobre nosotros</a></li>
+        </ul>
+    </footer>
+</div>

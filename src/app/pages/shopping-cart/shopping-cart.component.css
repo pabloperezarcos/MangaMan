@@ -1,0 +1,10 @@
+@media (min-width: 1025px) {
+    .h-custom {
+        height: 100vh !important;
+    }
+}
+
+section {
+    background-image: url('https://media1.tenor.com/m/a0at-3dnDzkAAAAC/doro-dorothy.gif');
+    background-size: repeat;
+}

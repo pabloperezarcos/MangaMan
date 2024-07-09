@@ -1,0 +1,152 @@
+[
+    {
+        "titulo": "Berserk VOL 5",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fberserk_vol_5.jpg?alt=media&token=d2f79f10-5f5d-408f-ba58-019a34a1117e",
+        "descripcion": "Volumen 5 de manga Berserk",
+        "precio": 12500
+    },
+    {
+        "titulo": "Berserk VOL 8",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fberserk_vol_8.jpg?alt=media&token=96f0fdad-eccf-4c2b-bbd0-3cdaeaa37178",
+        "descripcion": "Volumen 8 de manga Berserk",
+        "precio": 12500
+    },
+    {
+        "titulo": "Berserk VOL 27",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fberserk_vol_27.jpg?alt=media&token=04eeb32c-7924-44ff-9222-b35d80d1e149",
+        "descripcion": "Volumen 27 de manga Berserk",
+        "precio": 12500
+    },
+    {
+        "titulo": "Berserk VOL 40",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fberserk_vol_40.jpg?alt=media&token=f71aaed7-8543-402c-a393-adee0c3568b0",
+        "descripcion": "Volumen 40 de manga Berserk",
+        "precio": 12500
+    },
+    {
+        "titulo": "Berserk VOL 41",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fberserk_vol_41.jpg?alt=media&token=1dddaa29-0185-4914-80a8-f5335cb27f92",
+        "descripcion": "Volumen 41 de manga Berserk",
+        "precio": 12500
+    },
+    {
+        "titulo": "Berserk VOL 42",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fberserk_vol_42.jpg?alt=media&token=ed846133-7508-4d9c-88ce-dc45c674e32c",
+        "descripcion": "Volumen 42 de manga Berserk",
+        "precio": 12500
+    },
+    {
+        "titulo": "Chainsaw Man VOL 1",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fchainsawman_vol_1.jpg?alt=media&token=683c71a4-fd26-4732-a3b9-fe0b86d78c14",
+        "descripcion": "Volumen 1 de manga Chainsaw Man",
+        "precio": 12500
+    },
+    {
+        "titulo": "Chainsaw Man VOL 2",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fchainsawman_vol_2.jpg?alt=media&token=bd699f67-6886-4222-9ffb-6e5d8ff02c0e",
+        "descripcion": "Volumen 2 de manga Chainsaw Man",
+        "precio": 12500
+    },
+    {
+        "titulo": "Chainsaw Man VOL 8",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fchainsawman_vol_8.jpg?alt=media&token=2fc96ff8-f0ff-4c99-8446-c2d09f9c6aed",
+        "descripcion": "Volumen 8 de manga Chainsaw Man",
+        "precio": 12500
+    },
+    {
+        "titulo": "Chainsaw Man VOL 10",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fchainsawman_vol_10.jpg?alt=media&token=9a10e5ca-0cb9-42f3-8b3b-c49fdcc5125b",
+        "descripcion": "Volumen 10 de manga Chainsaw Man",
+        "precio": 12500
+    },
+    {
+        "titulo": "Chainsaw Man VOL 12",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fchainsawman_vol_12.jpg?alt=media&token=47d30697-7379-4e52-9841-c0ff7292439a",
+        "descripcion": "Volumen 12 de manga Chainsaw Man",
+        "precio": 12500
+    },
+    {
+        "titulo": "Jujutsu Kaisen VOL 1",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fjujutsu_vol_1.jpg?alt=media&token=85c829a1-d858-4e16-b381-6a1153a225a7",
+        "descripcion": "Volumen 1 de manga Jujutsu Kaisen",
+        "precio": 12500
+    },
+    {
+        "titulo": "Jujutsu Kaisen VOL 11",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fjujutsu_vol_11.jpg?alt=media&token=11047912-8ca9-435e-b670-607ee819859e",
+        "descripcion": "Volumen 11 de manga Jujutsu Kaisen",
+        "precio": 12500
+    },
+    {
+        "titulo": "Jujutsu Kaisen VOL 14",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2FJujutsu_vol_14.jpg?alt=media&token=10ae4345-f264-4b9e-99e8-29ea995fd550",
+        "descripcion": "Volumen 14 de manga Jujutsu Kaisen",
+        "precio": 12500
+    },
+    {
+        "titulo": "Jujutsu Kaisen VOL 16",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2FJujutsu_vol_16.jpg?alt=media&token=c4fbd9b1-c98f-4cab-8435-7e414ec97efd",
+        "descripcion": "Volumen 16 de manga Jujutsu Kaisen",
+        "precio": 12500
+    },
+    {
+        "titulo": "Jujutsu Kaisen VOL 26",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fjujutsu_vol_26.jpg?alt=media&token=09d3d3fd-495f-49f6-aefe-9af23efd6483",
+        "descripcion": "Volumen 26 de manga Jujutsu Kaisen",
+        "precio": 12500
+    },
+    {
+        "titulo": "Mob Psycho 100 VOL 6",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fmob_psycho_6.jfif?alt=media&token=eef4e931-842b-4068-98cd-82c451872491",
+        "descripcion": "Volumen 6 de manga Mob Psycho 100",
+        "precio": 12500
+    },
+    {
+        "titulo": "Mob Psycho 100 VOL 11",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fmob_psycho_11.jfif?alt=media&token=ab02b0fe-88a0-4d9c-8808-280b712faf3b",
+        "descripcion": "Volumen 11 de manga Mob Psycho 100",
+        "precio": 12500
+    },
+    {
+        "titulo": "Parasyte VOL 1",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fparasyte_vol_1.jpg?alt=media&token=29ce17a6-ee19-4c8f-a038-914e2351cff3",
+        "descripcion": "Volumen 1 de manga Parasyte",
+        "precio": 12500
+    },
+    {
+        "titulo": "Parasyte VOL 3",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fparasyte_vol_3.jpg?alt=media&token=f38f9b40-ed15-4b14-a652-4629d1eb853e",
+        "descripcion": "Volumen 3 de manga Parasyte",
+        "precio": 12500
+    },
+    {
+        "titulo": "Parasyte VOL 5",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fparasyte_vol_5.jpg?alt=media&token=b0f41ff1-4f32-4fe6-a7f7-a3416737e0f4",
+        "descripcion": "Volumen 5 de manga Parasyte",
+        "precio": 12500
+    },
+    {
+        "titulo": "Parasyte VOL 6",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fparasyte_vol_6.jpg?alt=media&token=fd4aeb4c-7d67-41a0-bcc9-65054c6a5cf3",
+        "descripcion": "Volumen 6 de manga Parasyte",
+        "precio": 12500
+    },
+    {
+        "titulo": "Spy x Family VOL 1",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fspy_family_vol_1.jpg?alt=media&token=30f4256b-32fb-4f23-8882-77f25bfeea91",
+        "descripcion": "Volumen 1 de manga Spy x Family",
+        "precio": 12500
+    },
+    {
+        "titulo": "Spy x Family VOL 2",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fspy_family_vol_2.jpg?alt=media&token=702ca975-459a-40c5-bbb9-cfb3b163cba8",
+        "descripcion": "Volumen 2 de manga Spy x Family",
+        "precio": 12500
+    },
+    {
+        "titulo": "Spy x Family VOL 3",
+        "portada": "https://firebasestorage.googleapis.com/v0/b/mangaman-770dc.appspot.com/o/img%2Fspy_family_vol_3.jpg?alt=media&token=68964a47-64b0-4b47-9e0d-7c506eb2f713",
+        "descripcion": "Volumen 3 de manga Spy x Family",
+        "precio": 12500
+    }
+]

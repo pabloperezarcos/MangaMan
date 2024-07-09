@@ -1,0 +1,17 @@
+<div class="container">
+    <div class="toShoppingCart">
+        <a (click)="goToShoppingCart()" class="btn btn-primary">Ir al carro</a>
+    </div>
+    <div class="row">
+        <div class="col" *ngFor="let product of productos">
+            <div class="card">
+                <img class="card-img-top" src="{{product.portada}}" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">{{product.titulo}}</h5>
+                    <p class="card-text">{{product.descripcion}}</p>
+                    <a (click)="addToCart(product)" class="btn btn-primary">Añadir al carro</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
